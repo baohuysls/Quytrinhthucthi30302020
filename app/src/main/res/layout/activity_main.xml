@@ -101,7 +101,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:textSize="20sp"
-        android:text="Kết quả = 10"
+        tools:text="Kết quả = 10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </LinearLayout>
